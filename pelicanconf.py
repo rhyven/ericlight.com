@@ -7,10 +7,12 @@ SITENAME = u'Such geek. Wow.'
 SITESUBTITLE = u'An eclectic collection of technical learnings and assorted challenges, for... reasons.'
 SITETITLE = u'Making things work'
 SITEURL = 'https://www.ericlight.com'
-THEME = u'/home/eric/pelican/ericlight.com/Flex'
+THEME = u'/home/eric/Pelican/ericlight.com/Flex'
+
+MAIN_MENU = True
 
 PATH = 'content'
-ARTICLE_URL = 'articles/{slug}.html'
+ARTICLE_URL = '{slug}.html'
 
 STATIC_PATHS = ['extra/favicon.ico', 'files']
 EXTRA_PATH_METADATA = {
@@ -33,8 +35,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('Wireguard', 'https://wireguard.io/'),
+         ('OWASP NZ', 'https://www.owasp.org/index.php/New_Zealand'),
+         ('NZ Python Users Group', 'https://python.nz'),
+         ('RingZer0 Team CTF', 'https://ringzer0team.com'),
          )
 
 # Social widget
@@ -55,3 +59,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+GOOGLE_ANALYTICS = 'UA-23358170-1'

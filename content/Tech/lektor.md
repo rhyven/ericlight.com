@@ -1,10 +1,11 @@
 Title: Making Lektor work with grsecurity
 Author: Eric Light
 Tags: Security
+Date: 2016-10-29
 
 I started using [grsecurity](https://grsecurity.net/) on my servers in 2015, and there's always a bit of [tuning](https://wiki.archlinux.org/index.php/Grsecurity) [required](http://hardenedlinux.org/system-security/2016/01/10/hardening-your-desktop-linux-mint-with-grsec.html).
 
-I was recently playing with [Lektor](https://www.getlektor.com) (before I swapped to [Pelican](https://www.getpelican.com), and I had a bit of trouble with my grsec kernel.  In particular, Lektor and Pelican are both run within a virtualenv Python environment, and grsec eats it like popcorn in two different ways:
+I was recently playing with [Lektor](https://www.getlektor.com) (before I swapped to [Pelican](https://www.getpelican.com)), and I had a bit of trouble with my grsec kernel.  In particular, Lektor and Pelican are both run within a virtualenv Python environment, and grsec eats it like popcorn in two different ways:
 
 1) TPE (Trusted Path Execution) throws a wobbly:
 

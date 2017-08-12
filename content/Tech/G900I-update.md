@@ -1,6 +1,7 @@
 Title: Updating the modem and radio firmware on a Samsung Galaxy 5 (G900I)
 Author: Eric Light
 Tags: Android, Security
+Date: 2016-10-27
 
 A couple months ago, [Check Point](http://www.checkpoint.com) revealed their discovery of the [Quadrooter vulnerability](http://blog.checkpoint.com/2016/08/07/quadrooter/) affecting the Qualcomm chipsets in oodles of Android phones.
 
