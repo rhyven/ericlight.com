@@ -14,9 +14,9 @@ MAIN_MENU = True
 PATH = 'content'
 ARTICLE_URL = '{slug}.html'
 
-STATIC_PATHS = ['extra/favicon.ico', 'files']
+STATIC_PATHS = ['extra/favicon.ico', 'files', 'images']
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 TIMEZONE = 'Pacific/Auckland'
