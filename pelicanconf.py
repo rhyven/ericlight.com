@@ -7,6 +7,7 @@ SITENAME = u'Such geek. Wow.'
 SITESUBTITLE = u'An eclectic collection of technical learnings and assorted challenges, for... reasons.'
 SITETITLE = u'Making things work'
 SITEURL = 'https://www.ericlight.com'
+SITELOGO = 'https://www.ericlight.com/profile.png'
 THEME = u'/home/eric/Pelican/ericlight.com/Flex'
 
 MAIN_MENU = True
@@ -14,9 +15,10 @@ MAIN_MENU = True
 PATH = 'content'
 ARTICLE_URL = '{slug}.html'
 
-STATIC_PATHS = ['extra/favicon.ico', 'files', 'images']
+STATIC_PATHS = ['extra', 'files', 'images']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/profile.png': {'path': 'profile.png'}
 }
 
 TIMEZONE = 'Pacific/Auckland'
@@ -61,3 +63,4 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 GOOGLE_ANALYTICS = 'UA-23358170-1'
+GOOGLE_TAG_MANAGER = 'GTM-NNM4P6R'
