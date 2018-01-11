@@ -1,6 +1,7 @@
 Title: Staying Secure in Business
 Author: Eric Light
 Tags: Security, Tech
+Date: 2017-06-28
 
 A friend asked a question today on Facebook.  I started writing a reply, and it turned into a 700-word essay.  Hate it when that happens...
 

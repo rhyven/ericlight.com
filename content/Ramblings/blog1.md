@@ -1,5 +1,6 @@
 Title: Welcome to the Internet
 Author: Eric Light
+Date: 2016-10-15
 
 Well, I'm finally here.
 

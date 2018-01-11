@@ -2,6 +2,7 @@ Title: Compiling Heimdall without installing Qt
 Author: Eric Light
 Tags: Android, Tech
 Date: 2017-09-13
+Modified: 2017-12-19
 
 During my recent [Wrecked-phone Saga]({filename}broken_phone.md), I had some trouble flashing my firmware.  My phone was broken at the time, so I couldn't enable ADB Debugging - therefore adb wasn't an option.  OEM Bootlock was on, so fastboot wasn't an option.  My Recovery bootloader was also broken.  I thought my phone was bricked.
 
@@ -20,6 +21,8 @@ Happily, Heimdall is open source, so I was able to download and compile a new ve
 I really didn't want to install 55 packages just to build this.  The majority of missing packages were required to build the GUI section of the tool, which I didn't want to use anyway.  What if I could ... _build Heimdall without building the GUI??_
 
 And of course, that's the title of this article, so here's how to do it!
+
+**EDIT 2017-12-19:  The stuff below is no longer necessary.  For better instructions, have a look at my article about [flashing a Samsung G900I back to stock]({filename}new_heimdall.md).**
 
 1. Clone the git repository, with `git clone https://github.com/Benjamin-Dobell/Heimdall.git`
 
