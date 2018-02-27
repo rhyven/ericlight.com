@@ -1,6 +1,6 @@
 Title: When the problem is DNS: FreeNAS and NFS
 Author: Eric Light
-Tags: Tech
+Tags: Tech, Linux
 Date: 2018-01-07
 
 I discovered a while ago that NFS requires DNS to function correctly: <https://bugs.freenas.org/issues/4983>

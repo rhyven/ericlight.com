@@ -1,6 +1,6 @@
 Title: Wireguard - Part One (Installation)
 Author: Eric Light
-Tags: Tech, Security, Wireguard, Networking
+Tags: Tech, Security, Wireguard, Networking, Linux
 Date: 2017-06-03
 Modified: 2017-06-11
 

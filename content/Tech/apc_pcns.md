@@ -1,6 +1,6 @@
 Title: Broken log times in APC's PCNS Appliance 4.1
 Author: Eric Light
-Tags: UPS
+Tags: Tech, Linux
 Date: 2016-10-27
 
 Schneider Electric's [PowerChute Network Shutdown](http://www.schneider-electric.com/en/product-range/61933-powerchute-network-shutdown/) is a piece of software which communicates with your local UPS, and initiates system shutdown if the UPS battery is unable to continue providing power.  This helps to preserve file integrity in the event of a prolonged power failure.

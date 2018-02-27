@@ -1,6 +1,6 @@
 Title: Compiling Heimdall without installing Qt
 Author: Eric Light
-Tags: Android, Tech
+Tags: Android, Tech, Linux
 Date: 2017-09-13
 Modified: 2017-12-19
 

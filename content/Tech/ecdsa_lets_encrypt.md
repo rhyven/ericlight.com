@@ -1,6 +1,6 @@
 Title: Using ECDSA certificates with Let's Encrypt
 Author: Eric Light
-Tags: Security
+Tags: Security, Linux, Tech
 Date: 2016-10-27
 
 [Let's Encrypt](https://www.letsencrypt.org)'s Certbot will generate an RSA key by default.  But we want to step into the new and exciting world of elliptic curve cryptography! Unfortunately Certbot doesn't really roll that way, so there are a couple hoops to jump through first.

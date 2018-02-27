@@ -1,6 +1,6 @@
 Title: Making MindTouch's Dekiwiki work on Debian Stretch
 Author: Eric Light
-Tags: Tech, Security
+Tags: Tech, Security, Linux
 Date: 2017-09-17
 
 We had accumulated a certain amount of technical debt, due to a Wiki solution that was selected a few years ago:  Dekiwiki, by MindTouch.  Unfortunately a few months after implementation, MindTouch Core (which Dekiwiki builds on) was [well-and-truly deprecated](https://mindtouch.com/resources/mindtouch-core-and-platform-this-is-the-end-beautiful-friend) back in 2013.

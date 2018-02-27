@@ -1,6 +1,6 @@
 Title: Wireguard - Part Three (Troubleshooting)
 Author: Eric Light
-Tags: Tech, Security, Wireguard, Networking
+Tags: Tech, Security, Wireguard, Networking, Linux
 Date: 2017-06-12
 
 This is part of my [brief]({filename}wg0.md) [series]({filename}wg1.md) on [Wireguard](https://wireguard.io/).  I'm pretty enamoured with Wireguard and the way it works, but there were a couple slightly curly bits that I needed to get my head around.  This troubleshooting guide is a rough dump of the issues I had, and how I fixed them.

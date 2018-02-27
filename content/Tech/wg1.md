@@ -1,6 +1,6 @@
 Title: Wireguard - Part Two (VPN routing)
 Author: Eric Light
-Tags: Tech, Security, Wireguard, Networking
+Tags: Tech, Security, Wireguard, Networking, Linux
 Date: 2017-06-11
 
 This is a continuation of my brief series on the new [Wireguard](https://wireguard.io/) VPN.  [Part One]({filename}wg0.md) was about the simple building-blocks to get Wireguard working between two endpoints.  Now that we've got a couple machines able to ping each other by IP address, we can carry on a bit deeper into the inter-LAN routing stuff.

@@ -1,6 +1,6 @@
 Title: Making Amavis work with ESET Antivirus
 Author: Eric Light
-Tags: Tech, Security
+Tags: Tech, Security, Linux, Mail
 Date: 2017-08-12
 
 I've been dabbling a little bit with [iRedMail](http://www.iredmail.org), mostly just to have a play with a mail server, but also to see what's involved in mail security.  iRedMail is a package that [pulls together](http://www.iredmail.org/docs/used.components.html) Postfix as an MTA, Dovecot as a POP3 & IMAP server, SOGo for ActiveSync, Roundcube for Webmail, SpamAssassin for spam protection, and ClamAV for virus scanning.

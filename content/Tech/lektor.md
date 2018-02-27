@@ -1,6 +1,6 @@
 Title: Making Lektor work with grsecurity
 Author: Eric Light
-Tags: Security
+Tags: Security, Tech, Linux
 Date: 2016-10-29
 
 I started using [grsecurity](https://grsecurity.net/) on my servers in 2015, and there's always a bit of [tuning](https://wiki.archlinux.org/index.php/Grsecurity) [required](http://hardenedlinux.org/system-security/2016/01/10/hardening-your-desktop-linux-mint-with-grsec.html).

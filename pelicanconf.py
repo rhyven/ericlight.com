@@ -27,6 +27,8 @@ SUMMARY_MAX_LENGTH = 90
 DEFAULT_DATE = 'fs'
 DEFAULT_LANG = 'en'
 
+DISABLE_URL_HASH = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
