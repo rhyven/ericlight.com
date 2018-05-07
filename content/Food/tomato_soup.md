@@ -8,16 +8,16 @@ I came home tonight to discover my wife had made probably the most amazing tomat
 Ingredients
 ===========
 
-1 Tbsp oil
-1 medium onion, sliced
-1/2 head of garlic, peeled and chopped
-About 4 slices of bacon, diced
-3 cans of chopped tomatoes
-2 tsp of vegetable stock powder
-2 tsp of sugar
-1 cup of water
-Cream
-Parsley for garnish
+* 1 Tbsp oil
+* 1 medium onion, sliced
+* 1/2 head of garlic, peeled and chopped
+* About 4 slices of bacon, diced
+* 3 cans of chopped tomatoes
+* 2 tsp of vegetable stock powder
+* 2 tsp of sugar
+* 1 cup of water
+* Cream
+* Parsley for garnish
 
 Method
 ======
