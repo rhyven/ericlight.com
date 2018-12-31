@@ -1,7 +1,7 @@
 Title: New things I didn't know about Wireguard
 Author: Eric Light
 Tags: Tech, Security, Wireguard, Networking, Linux
-Date: 2018-12-31
+Date: 2018-12-27
 
 This is part of my [brief]({filename}wg0.md) [series]({filename}wg1.md) [on]({filename}wg2.md) [Wireguard](https://wireguard.io/).  I'm pretty enamoured with Wireguard and the way it works, and I've been using it pretty seamlessly for over a year now.  I've learned a couple things that weren't immediately obvious though, so I'm documenting them here.
 
