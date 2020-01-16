@@ -54,7 +54,7 @@ You, never, travelling away from the milky way at 95% of the speed of light:
     Speed in x dimension: 284,803km per second
     Speed in t dimension: 14,989km per second
 
-So, as you get faster in one dimension, you necessarily *must* move more slowly through time!  Time dilation comes down to that, plus the hard-to-grasp concept that you're only either accellerating *or* stationary in your own frame of reference... but that's a story for another day.
+So, as you get faster in one dimension, you necessarily *must* move more slowly through time!  Time dilation comes down to that, plus the hard-to-grasp concept that you're only either accelerating *or* stationary in your own frame of reference... but that's a story for another day.
 
 That pretty much exhausts everything I know about time dilation... I hope you enjoyed reading it.  Huge thanks to Ellie for finding me a friendly physicist to check over this for me!
 
