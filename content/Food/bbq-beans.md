@@ -11,10 +11,10 @@ So anyway, I whipped up a recipe last night, and my awesome wife ran the smoker 
 
 The following recipe is plenty for a good 6 people, and should provide some leftovers as well.  We used a mix of Apple wood and Cherry wood for smoke.
 
-<p markdown align="center">
-![]({filename}/images/cooking-beans.jpg "Part-way through the cook")
-<br/>_Part-way through the cook_
-</p>
+<figure align="center">
+  <img src="{static}/images/cooking-beans.jpg" alt="The beans simmering - it's all still very liquid, all the beans are still firm and bean-shaped, and chunks of capsicum and onion are recognisable."/>
+  <figcaption><em>Part-way through the cook</em></figcaption>
+</figure>
 
 
 Ingredients
@@ -38,7 +38,7 @@ Mix all the ingredients together in your bowl (or a tray), pop it in the BBQ, an
 
 Enjoy!
 
-<p markdown align="center">
-![]({filename}/images/cooked-beans.jpg "Utterly delicious ... although already mostly eaten!")
-<br/>_Utterly delicious ... although already mostly eaten!_
-</p>
+<figure align="center">
+  <img src="{static}/images/cooked-beans.jpg" alt="The liquid has thickened into a paste consistency; the beans are way softer, many are mashed and split. The capsicum peeks through in splashes of colour."/>
+  <figcaption><em>Utterly delicious ... although already mostly eaten!</em></figcaption>
+</figure>

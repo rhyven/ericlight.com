@@ -7,7 +7,7 @@ It's been a while since I posted, but we bumped into something completely batshi
 
 One of my colleagues was setting up a new computer, and was unable to RDP into the new build. He kept getting the error message "Your session ended because there was a data encryption error. If this keeps happening, ask your admin or tech support for help."
 
-!["Your session ended because there was a data encryption error."]({filename}/images/wd15.png)
+!["Your session ended because there was a data encryption error."]({static}/images/wd15.png)
 
 
 We'd never experienced this error before, and - although the internet knew about it - there were not very many helpful hits on Google.  In fact, all of the reports we found were the result of a bug in Windows 7, and we were only using Windows 10.

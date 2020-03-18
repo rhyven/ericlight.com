@@ -14,7 +14,7 @@ Heimdall, however, is **old**.  The version in the Debian Sid repository is 1.4.
 
 Happily, Heimdall is open source, so I was able to download and compile a new version that overcomes the problem.  And that's how I found myself staring at the screen and looking at this:
 
-![Do I really need to install 55 packages to build this?]({filename}/images/yuck.png)
+![Do I really need to install 55 packages to build this?]({static}/images/yuck.png)
 
 **That is Yuck.bat**
 
