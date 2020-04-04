@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=www.ericlight.com
+SSH_HOST=horsa.ericlight.com
 SSH_PORT=12457
-SSH_USER=lektor
-SSH_TARGET_DIR=/var/www/html
+SSH_USER=caddy
+SSH_TARGET_DIR=/var/www/ericlight.com
 
 S3_BUCKET=my_s3_bucket
 

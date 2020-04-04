@@ -12,8 +12,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'lektor@www.ericlight.com:12457'
-dest_path = '/var/www/html'
+production = 'caddy@horsa.ericlight.com:12457'
+dest_path = '/var/www/ericlight.com'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
