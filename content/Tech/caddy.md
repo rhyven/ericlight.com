@@ -66,34 +66,10 @@ Ok so here's the thing.  Caddy really seems to implement Python's ethos of "Batt
 1. And, of course, zoink all the logs into separate files under /var/log/caddy
 
 
-Preventing scans
-======
-
-This is already pretty secure - Caddy is the only service hosted on this box, there's no dynamic code (all raw HTML and CSS, thanks to [Pelican](https://getpelican.com)), and the only things listening to the internet are SSH and Caddy itself.  But even then, I get tired of seeing hundreds of scan reports every day.  [Fail2Ban](https://www.fail2ban.org/) to the rescue.
-
-`/etc/fail2ban/filter.d/caddy-4xx.conf`:
-```
-[Definition]
-failregex = ^<HOST>.*"(GET|POST).*" (404|444|403|400) .*$
-ignoreregex =
-```
-
-`/etc/fail2ban/jail.local`:
-```
-[caddy-4xx]
-port    = http,https
-logpath = /var/log/caddy/access.log
-          /var/log/caddy/utu_access.log
-enabled = true
-banTime = 3600
-findTime = 600
-maxretry = 5
-```
-
 Creating a Caddy Service file
 =========
 
-If you're running Debian, you'll need to create yourself a service file for systemd to live with.  I used mine from <https://github.com/caddyserver/dist/tree/master/init>:
+If you're running Debian, you'll need to create yourself a service file for systemd, so you can get your server to launch Caddy on boot.  I got mine from <https://github.com/caddyserver/dist/tree/master/init>:
 
 `/etc/systemd/system/caddy.service`:
 
@@ -135,6 +111,30 @@ AmbientCapabilities=CAP_NET_BIND_SERVICE
 
 [Install]
 WantedBy=multi-user.target
+```
+
+Preventing scans
+======
+
+Everything above is already pretty secure - Caddy is really good at making security super easy.  On top of that, Caddy is the only service hosted on this box, there's no dynamic code (all raw HTML and CSS, thanks to [Pelican](https://getpelican.com)), and the only things listening to the internet are SSH and Caddy itself.  But even then, I get tired of seeing hundreds of scan reports every day.  [Fail2Ban](https://www.fail2ban.org/) to the rescue.
+
+`/etc/fail2ban/filter.d/caddy-4xx.conf`:
+```
+[Definition]
+failregex = ^<HOST>.*"(GET|POST).*" (404|444|403|400) .*$
+ignoreregex =
+```
+
+`/etc/fail2ban/jail.local`:
+```
+[caddy-4xx]
+port    = http,https
+logpath = /var/log/caddy/access.log
+          /var/log/caddy/utu_access.log
+enabled = true
+banTime = 3600
+findTime = 600
+maxretry = 5
 ```
 
 Fin!
