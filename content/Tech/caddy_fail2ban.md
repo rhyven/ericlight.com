@@ -2,6 +2,7 @@ Title: Using Fail2Ban to insta-block malicious hits
 Author: Eric Light
 Tags: Tech, Security, Linux
 Date: 2020-04-07
+Modified: 2020-04-10
 
 Okay so a few days ago I [posted]({filename}caddy.md) about adopting [Caddy](https://www.caddyserver.com).  
 
