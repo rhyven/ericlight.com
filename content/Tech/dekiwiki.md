@@ -7,14 +7,14 @@ We had accumulated a certain amount of technical debt, due to a Wiki solution th
 
 It all happened before my time, but it seems as if Dekiwiki came as a pre-built VMware Appliance, based on Debian Etch ([Debian 4.0; released in 2007](https://en.wikipedia.org/wiki/Debian_version_history#Debian_4.0_.28Etch.29)).  After giving our Dekiwiki environment some serious side-eye for a while, I finally decided to get my hands dirty and try to upgrade it.
 
-Jedd, over at Jeddi.org, wrote [a really helpful post back in 2015](https://jeddi.org/b/2015/08/30/resurrecting-mindtouch-dekiwiki/) about his experiences updating the ageing version of Debian that the VM is based on.  The whole Dekiwiki image is held together by sticky-tape, but that post is really helpful in getting Etch upgraded to Wheezy.
+Jedd, over at Jeddi.org, wrote [a really helpful post back in 2015](https://jeddi.org/b/resurrecting-mindtouch-dekiwiki.html#resurrecting-mindtouch-dekiwiki) about his experiences updating the ageing version of Debian that the VM is based on.  The whole Dekiwiki image is held together by sticky-tape, but that post is really helpful in getting Etch upgraded to Wheezy.
 
 Here are a couple **additional** things I've had to do (please, please look at Jedd's post above - he covers a whole lot that I'm not covering here):
 
 Upgrading Etch -> Lenny:
 -----------------------------
 
-Follow [the guide at Jeddi.org](https://jeddi.org/b/2015/08/30/resurrecting-mindtouch-dekiwiki/) above to get to Lenny.  I can't remember much failing for that upgrade step, but I remember something happened.
+Follow [the guide at Jeddi.org](https://jeddi.org/b/resurrecting-mindtouch-dekiwiki.html#resurrecting-mindtouch-dekiwiki) above to get to Lenny.  I can't remember much failing for that upgrade step, but I remember something happened.
 
 From Lenny -> Squeeze:
 ----------------------

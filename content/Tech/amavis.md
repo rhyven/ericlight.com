@@ -24,4 +24,4 @@ That would be the end of the story, except I also had to hunt around to find out
 
 Somewhere around line 154 in `/etc/amavis/conf.d/50-users`, you'll find an `@av_scanners` codeblock.  I deleted the ClamAV section in there, and replaced it with the ESET codeblock above.  I left the ClamAV settings in the `@av_scanners_backup` section, because Amavis will fall back to that if ESET fails.
 
-That seems to be all!  At least, it works with the [EICAR anti-malware test file](http://www.eicar.org/85-0-Download.html).
+That seems to be all!  At least, it works with the [EICAR anti-malware test file](http://www.eicar.org/).

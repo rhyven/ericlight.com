@@ -2,10 +2,11 @@ Title: Updating the modem and radio firmware on a Samsung Galaxy 5 (G900I)
 Author: Eric Light
 Tags: Android, Security, Linux
 Date: 2016-10-27
+Modified: 2020-04-12
 
 A couple months ago, [Check Point](http://www.checkpoint.com) revealed their discovery of the [Quadrooter vulnerability](http://blog.checkpoint.com/2016/08/07/quadrooter/) affecting the Qualcomm chipsets in oodles of Android phones.
 
-I use [CyanogenMod](http://www.cyanogenmod.org) on a Samsung Galaxy S5, so thankfully I [received patches](http://www.cyanogenmod.org/blog/cm-13-0-release-znh5y) for three of the four vulnerabilities in only a few days.
+I use --CyanogenMod-- [LineageOS](http://www.lineageos.org) on a Samsung Galaxy S5, so thankfully I [received patches](https://web.archive.org/web/20161223020015/http://www.cyanogenmod.org/blog/cm-13-0-release-znh5y) for three of the four vulnerabilities in only a few days.
 
 However, that last vulnerability was part of a proprietary binary blob for controlling the Qualcomm LTE chipset, only patchable by Samsung themselves.  It took a while for the Samsung updates to roll out, and then I got distracted for a while, but I finally downloaded my firmware.  The package I've used is "G900IDVU1CPH3", which seems to be compatible at least with the three NZ-based carriers, as well as all the Australian carriers.
 
@@ -13,7 +14,7 @@ There are a couple little issues with the firmware upgrade, easily fixed if you 
 
 In particular, the version of Heimdall in the Debian Sid repositories (1.4.1-2) doesn't quite work with the SGS5.  It appears [other people](https://www.google.com/search?q=ERROR%3A+Failed+to+send+request+to+end+PIT+file+transfer%21+samsung) have had similar problems.
 
-The beginning of fix for me came from [turboyz](https://github.com/turboyz) on Github, at the bottom of this post:  <https://github.com/Benjamin-Dobell/Heimdall/issues/348>; however, he's manually made a couple changes to BridgeManager.cpp, which appear to be no longer necessary.  We can simply build it from source:
+The beginning of fix for me came from [turboyz](https://github.com/turboyz) on Github, at the bottom of this post:  (Edit 2020-04-12: GitHub Issue 348 from <https://github.com/Benjamin-Dobell/Heimdall/> has been deleted); however, he's manually made a couple changes to BridgeManager.cpp, which appear to be no longer necessary.  We can simply build it from source:
 
     sudo apt-get install build-essential cmake zlib1g-dev libusb-1.0-0-dev git
     git clone https://github.com/Benjamin-Dobell/Heimdall.git

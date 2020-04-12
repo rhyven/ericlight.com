@@ -40,7 +40,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
          ('Wireguard', 'https://wireguard.io/'),
-         ('OWASP NZ', 'https://www.owasp.org/index.php/New_Zealand'),
+         ('OWASP NZ', 'https://owasp.org/www-chapter-new-zealand/'),
          ('NZ Python Users Group', 'https://python.nz'),
          ('RingZer0 Team CTF', 'https://ringzer0team.com'),
          )

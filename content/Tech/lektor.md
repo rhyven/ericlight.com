@@ -18,7 +18,7 @@ To resolve this one, add your user to the TPE group.  This will allow the user t
 **`sudo usermod -aG grsec-tpe $USER`**
 
 
-2) RWX protection.  This is a common problem with Python-based apps, even though [Python has an exception](https://github.com/thestinger/paxd/issues/6) by default.
+2) RWX protection.  This is a common problem with Python-based apps, even though Python has an exception (Edit 2020-04-12 - Issue 6 from <https://github.com/thestinger/paxd/> has been deleted) by default.
 
 `[  207.534876] grsec: From {ssh-source-ip}: denied RWX mmap of <anonymous mapping> by /usr/local/lib/lektor/bin/lektor[lektor:534] uid/euid:1000/1000 gid/egid:1000/1000, parent /bin/bash[bash:477] uid/euid:1000/1000 gid/egid:1000/1000`
 

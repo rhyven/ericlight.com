@@ -3,7 +3,7 @@ Author: Eric Light
 Tags: Tech, Linux
 Date: 2018-01-07
 
-I discovered a while ago that NFS requires DNS to function correctly: <https://bugs.freenas.org/issues/4983>
+I discovered a while ago that NFS requires DNS to function correctly: <https://redmine.ixsystems.com/issues/4983>
 
 That's somewhat annoying, because when your DNS server goes down (and your backups are stored on your FreeNAS server and accessed over NFS), is precisely the time when you really want your backups to be accessible.
 
