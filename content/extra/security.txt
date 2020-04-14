@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:blog_security@ericlight.com
+Encryption: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xd430cce20e70e91d5116da1406503b1040ef6367
+Preferred-Languages: en
+Canonical: https://www.ericlight.com/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEn8BWOzXOX6Lp+L7gl6KIRVYSuPgFAl6VWKsACgkQl6KIRVYS
+uPhRCw/9GX0O0+sXm1IlYE2WqM6fUl8ecXfkQCMo0r3pIGMh+2+15O3YxecU/aiI
+j38DoFtIFH3BSPsf1E68IUTiHwu7ehW+0153fLgEEpoHFjQOQrpFwhxwtEfkVDFH
+jA2EvFHw1YJ0MujmfCm0DZqmg9TqFVT+Sa6Uv1UnRWdkNR/RhKMemUfWM6sj6ThD
+TzFiB05BIuDNcXQEuPRtbCKIN9x/+DuLl2TBmrkxO0pAxNZJabRuth/osTtWCKZA
+p5mZLpTAU2O+tjb5zZUQmnsJtZxmX5K7nxQheLShF1UkdTcjE3E/ATIjKcqC11x+
+fwwkJIjtzgxDBj/gDaLW6DZRillOQKDsoR/sr4Rf+GC/bC6PZQogqBYjYdCtKQGT
+XtILmrziH1Isgc65NcvSu1vN9rqYHOW8iojK9nqvr/ZOLaRL7jws44y82MFGTP6w
+R8489cP4Jgbc3kpYqG0C8ms+ZvUbQTXFv0iIquK30ToanNBUJCVppV3Wywi0eNB/
+2CeJjwyTRAf4dr1QYSQ6292+pZvDLl8iIpQhg/of2RjF4PpSS4quOwpeGeTSotRx
+MqFlbtNJDgJZEvFK4NtGobzcK1QZ8P6aMmRJsHroQ+evmsPBUxwgAoigC0JFk8Er
+wgZz9z3efjJer0jXe+FWF9VuAdPfdJdJphf7k4albYxzMO28eVw=
+=gST1
+-----END PGP SIGNATURE-----

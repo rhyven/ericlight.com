@@ -18,6 +18,8 @@ ARTICLE_URL = '{slug}.html'
 STATIC_PATHS = ['extra', 'files', 'images']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/security.txt': {'path': '.well-known/security.txt'},
     'extra/profile.png': {'path': 'profile.png'}
 }
 
