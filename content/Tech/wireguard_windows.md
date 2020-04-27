@@ -69,8 +69,15 @@ uIGDK+LMDZANniFxrofIpu/hUyezuwCM7qSDVVO+1Gw=
 
 **_AWESOME._**  Next step is to zoink that into a handy-dandy config file.  (More accurately, next step is to delete that private key that I've now posted to the internets)
 
+Right, so it _looks_ like I can't just create a text-based wg0.conf file like I do in Linux.  When I do, I get this error:
 
+```text
+PS C:\Users> wg setconf wg0 .\wg0.conf
+Line unrecognized: ` ■['
+Configuration parsing error
+```
 
+I thought this might be the file encoding, so I tried it in ANSI etc, but then I learned that Wireguard for Windows stores it's config files in `C:\Windows\System32\config\systemprofile\AppData\Local\WireGuard\Configurations\` ... and they're not in plain text.  They're stored with the Windows Data Protection API (DPAPI), so perhaps that's what wireguard.exe is expecting?
 
-
+Either way, I've been playing with this for quite a long time now, so I'm off to take a break for the night or so.  Once I figure out how to create a WireGuard config file for an interface I'll post a new article.  Hope you enjoyed reading so far!
 
