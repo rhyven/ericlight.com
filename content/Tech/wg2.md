@@ -1,9 +1,9 @@
-Title: Wireguard - Part Three (Troubleshooting)
+Title: WireGuard - Part Three (Troubleshooting)
 Author: Eric Light
-Tags: Tech, Security, Wireguard, Networking, Linux
+Tags: Tech, Security, WireGuard, Networking, Linux
 Date: 2017-06-12
 
-This is part of my [brief]({filename}wg0.md) [series]({filename}wg1.md) on [Wireguard](https://wireguard.io/).  I'm pretty enamoured with Wireguard and the way it works, but there were a couple slightly curly bits that I needed to get my head around.  This troubleshooting guide is a rough dump of the issues I had, and how I fixed them.
+This is part of my [brief]({filename}wg0.md) [series]({filename}wg1.md) on [WireGuard](https://wireguard.com/).  I'm pretty enamoured with WireGuard and the way it works, but there were a couple slightly curly bits that I needed to get my head around.  This troubleshooting guide is a rough dump of the issues I had, and how I fixed them.
 
 
 Gotten Stuck?
@@ -11,7 +11,7 @@ Gotten Stuck?
 
 At this stage, there are actually a few ways that this can go wrong, even though we haven't done much.  Think through all the bits:
 
-* Installed Wireguard at both ends
+* Installed WireGuard at both ends
 * Set up your NAT rule on the remote side
 * Created a private and public key on each side
 * Put each public key in the opposite side's [Peer] config
@@ -51,4 +51,4 @@ Thanks
 
 Huge gratitude to [Jason Donenfeld](https://www.zx2c4.com/) (aka zx2c4) for spending his time not only reading this post, but also for sending me some fantastic feedback!  I'd made some bungles in my original post on this topic, and he vastly helped my understanding.
 
-Also, huge gratitude to another Jason ([@rendition](https://keybase.io/rendition)) who has helped me develop from a junior network admin into a ... 'moderate' network admin.  I've learned more in the last year than I ever thought possible.  He's taught me nearly everything I know about managed networking, reviewed this post for me, and is actually the guy who introduced me to Wireguard originally!
+Also, huge gratitude to another Jason ([@rendition](https://keybase.io/rendition)) who has helped me develop from a junior network admin into a ... 'moderate' network admin.  I've learned more in the last year than I ever thought possible.  He's taught me nearly everything I know about managed networking, reviewed this post for me, and is actually the guy who introduced me to WireGuard originally!

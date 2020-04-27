@@ -7,7 +7,7 @@ SITENAME = u'Such geek. Wow.'
 SITESUBTITLE = u'An eclectic collection of technical learnings and assorted challenges, for... reasons.'
 SITETITLE = u'Making things work'
 SITEURL = 'https://www.ericlight.com'
-SITELOGO = 'https://www.ericlight.com/profile.png'
+SITELOGO = 'profile.png'
 THEME = u'/home/eric/Pelican/ericlight.com/Flex'
 
 MAIN_MENU = True
@@ -41,7 +41,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('Wireguard', 'https://wireguard.io/'),
+         ('WireGuard', 'https://www.wireguard.com/'),
          ('OWASP NZ', 'https://owasp.org/www-chapter-new-zealand/'),
          ('NZ Python Users Group', 'https://python.nz'),
          ('RingZer0 Team CTF', 'https://ringzer0team.com'),
