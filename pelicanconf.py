@@ -12,13 +12,32 @@ THEME = u'/home/eric/Pelican/ericlight.com/Flex'
 
 MAIN_MENU = True
 
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS=['sitemap']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
 PATH = 'content'
 ARTICLE_URL = '{slug}.html'
 
 STATIC_PATHS = ['extra', 'files', 'images']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/cv.pdf': {'path': 'cv/EricLight.pdf'},
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/apple-touch-icon.png': {'path': 'apple-touch-icon.png'},
     'extra/security.txt': {'path': '.well-known/security.txt'},
     'extra/profile.png': {'path': 'profile.png'}
 }
