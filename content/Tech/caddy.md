@@ -2,6 +2,8 @@ Title: Moving to the Caddy web server
 Author: Eric Light
 Tags: Tech, Security, Linux
 Date: 2020-04-05
+Modified: 2020-05-07
+
 
 For the last couple of years I've been running this site, as well as my friend's site ([Under The Umbrella](https://www.undertheumbrella.co.nz)) on [Nginx](https://www.nginx.org).  Recently my VPS host decided to do away with their cheapest tier, so instead of doubling my annual cost, I hopped onto <https://www.lowendbox.com> and found myself a replacement Cheaps McGee VPS to host this.
 
@@ -43,7 +45,7 @@ undertheumbrella.co.nz, www.undertheumbrella.co.nz {
 ```
 
 And, `/etc/caddy/caddy_security.conf` contains:
-```
+```ini
 header / {
     Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
         X-Xss-Protection "1; mode=block"
@@ -68,6 +70,10 @@ Ok so here's the thing.  Caddy really seems to implement Python's ethos of "Batt
 
 Creating a Caddy Service file
 =========
+
+**UPDATE 2020-05-07:  With the release of Caddy 2.0, it appears a regular `dpkg -i caddy.deb` will take care of creating the caddy.service file**
+
+---
 
 If you're running Debian, you'll need to create yourself a service file for systemd, so you can get your server to launch Caddy on boot.  I got mine from <https://github.com/caddyserver/dist/tree/master/init>:
 
