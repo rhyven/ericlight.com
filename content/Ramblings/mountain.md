@@ -1,5 +1,6 @@
 Title: My mountain
 Author: Eric Light
+Date: 2020-06-06
 
 ![Landscape photography of Mount Tongariro and Mount Ngauruhoe, covered in white snow]({static}/images/tongariro.jpg)
 

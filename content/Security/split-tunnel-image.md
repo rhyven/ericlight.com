@@ -1,6 +1,7 @@
 Title: Why are all Split-Tunnel VPN diagrams so ugly?
 Author: Eric Light
 Tags: Security, Tech
+Date: 2020-05-21
 
 Right.
 
