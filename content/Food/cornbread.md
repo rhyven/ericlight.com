@@ -2,6 +2,11 @@ Title: Delicious Cornbread
 Date: 2020-07-26
 Tags: Recipes, Food
 Author: Eric Light
+Modified: 2020-08-09
+
+<hr/>
+### _2020-08-09 Update:  See jalapeño edit at bottom._
+<hr/>
 
 I remember celebrating Christmas with family in New Mexico when I was a kid.  I was fairly young, but I think it must have been at the [Feast of the Virgin of Guadalupe](https://en.wikipedia.org/wiki/Christmas_in_Mexico#Feast_of_the_Virgin_of_Guadalupe).  One of the most delicious treats I recall from the Feast was real Mexican cornbread.
 
@@ -53,5 +58,26 @@ Method
   <figcaption><em>Yum.</em></figcaption>
 </figure>
 
+
+Jalapeño Update
+=========
+
+Today I tried some jalapeño and cheese in the cornbread.  It was easily the best cornbread I've made so far!  
+
+As above, except with the following modifications:
+
+* Increase salt to 2.5tsp
+* Reduce sugar to a half cup
+* 2~2.5 cups of grated cheese
+* About 1/3 cup of chopped jalapeño
+
+The cheese and jalapeño go into the batter after the butter is mixed in - just before you pour it into the skillet.
+
+Today's cheese was about 1.5 cups of grated Colby, and another half cup of grated parmesan to add a bit of sharpness.  It wasn't _quite_ enough, so next time I'll either increase the proprtion of parmesan to 2/3c, or use a slightly sharper base cheese.
+
+<figure align="center">
+  <img src="{static}/images/Food/cornbread-cheese.jpg" width="400" alt="The jalapeño and cheese on the chopping board, ready to be introduced to the batter"/>
+  <figcaption><em>The cheese and jalapeño ready for the pan!</em></figcaption>
+</figure>
 
 Credit:  The recipe above is almost entirely from <https://cookieandkate.com/honey-butter-cornbread-recipe/>, however I've made a few small tweaks.
