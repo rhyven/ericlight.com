@@ -3,7 +3,7 @@ Author: Eric Light
 Tags: Tech, Linux
 Date: 2016-10-27
 
-Schneider Electric's [PowerChute Network Shutdown](http://www.schneider-electric.com/en/product-range/61933-powerchute-network-shutdown/) is a piece of software which communicates with your local UPS, and initiates system shutdown if the UPS battery is unable to continue providing power.  This helps to preserve file integrity in the event of a prolonged power failure.
+Schneider Electric's [PowerChute Network Shutdown](http://www.se.com/en/product-range/61933-powerchute-network-shutdown/) is a piece of software which communicates with your local UPS, and initiates system shutdown if the UPS battery is unable to continue providing power.  This helps to preserve file integrity in the event of a prolonged power failure.
 
 Previously, you had to install the PCNS client separately on each virtual machine.  Since then though, APC have released a [PCNS VMware Appliance](https://solutionexchange.vmware.com/store/products/apc-powerchute-network-shutdown-v4-1-for-vmware) which is installed directly into vCenter, and initiates shutdown on all the VMware guests through a single Virtual Machine.  This is a much tidier model, so we've recently embarked on migrating to the PCNS Appliance.
 
