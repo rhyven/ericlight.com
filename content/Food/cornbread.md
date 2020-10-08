@@ -4,10 +4,6 @@ Tags: Recipes, Food
 Author: Eric Light
 Modified: 2020-08-09
 
-<hr/>
-### _2020-08-09 Update:  See jalapeño edit at bottom._
-<hr/>
-
 I remember celebrating Christmas with family in New Mexico when I was a kid.  I was fairly young, but I think it must have been at the [Feast of the Virgin of Guadalupe](https://en.wikipedia.org/wiki/Christmas_in_Mexico#Feast_of_the_Virgin_of_Guadalupe).  One of the most delicious treats I recall from the Feast was real Mexican cornbread.
 
 Now, every few years I'll head into [Gilmours](https://www.gilmours.co.nz/) and yoink a three-kilo bag of cornmeal.  I don't make this often, but we do all love it, and one batch usually makes enough for multiple households.

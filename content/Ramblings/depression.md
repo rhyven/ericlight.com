@@ -1,10 +1,12 @@
 Title: Your mate Eric, and his journey through depression
 Author: Eric Light
-Date: 2020-09-25
+Date: 2020-10-08
 
 A couple of months ago, the team at my day job asked me to write something for [Mental Health Awareness Week](https://www.mhaw.nz/), so today I'm sharing some of my personal experiences around depression. It's one of my longer articles, but the key message I want you to hear is: If you're struggling, speak with someone. Seriously, just lean over to your mate now and say "Hey, did you see that article from Eric today?" – that's all it takes to start a conversation, and believe me: sharing your feelings is a solid way to start getting on top of them.
 
-![Mental Health Awareness Week banner]({static}/images/Ramblings/mhaw.jpg)
+<figure>
+  <img class='img-center' style="width:75%" src="{static}/images/Ramblings/mhaw.jpg" alt="Mental Health Awareness Week banner"/>
+</figure>
 
 The year was 2011, maybe February, about 10pm... the kids were in bed, school lunches packed, teeth brushed. It was a normal part of a normal bedtime routine for the whole household. I don't particularly recall anything _happening_... but I remember looking at my wife and saying, "_Shit... I think I'm depressed_". In the morning I phoned my doc (that was the hardest part) who started me on [Fluoxetine](https://www.healthnavigator.org.nz/medicines/s/ssri-antidepressants/) - the medication that supported me throughout my recovery. Making that phone call the first step in a long journey, but it cemented my realisation that I was struggling, and that I needed help.
 
@@ -27,8 +29,7 @@ What helped me through? Firstly, medication. Antidepressants usually take a full
 Important note: Everyone is different, and that difference is rarely more pronounced than in mental health. For example, the medication that worked for me may not work for everyone, and medication often doesn't work alone. Friends of mine have tried three or four different types of antidepressants before finding one that helped, and counselling often plays a critical role in recovery.
 
 ![Eric and Russell, playing guitars at a picnic table while out camping]({static}/images/Ramblings/russ.jpg)
-
-_Ol' Rusty and I, glamping at Athenree Campground, in 2011_
+<figcaption>Ol' Rusty and I, glamping at Athenree Campground, in 2011</figcaption>
 
 Connectedness with community and friends is one of our most powerful contributors to happiness and that sense of fulfilment we yearn for. Humans are very social creatures, and it's essential to our wellbeing to engage and bring value to our social circle. We all need to put time into our friendships, our community, and our passions – neglecting these can bring a much greater cost than we expect, and it's hard to dig yourself out once you're in that hole. In fact – your friends and community are critical to pulling you out, which is why opening up and talking about it is so important. We can't help if we don't know.
 
