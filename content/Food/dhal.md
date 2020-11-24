@@ -10,11 +10,9 @@ I've loved dhal (or dal or dahl or daal etc) since my trip to India in 2019... U
   <figcaption><em>Dhal makhani in Varanasi.</em></figcaption>
 </figure>
 
-So there's this recipe I've followed a handful of times.  I like it, it's a Rajasthani-style, similar to what I enjoyed while travelling through Jaipur.  But this recipe doesn't really _kick_ the same way that the food in India did, so I always find myself tweaking it.
+So there's this recipe I've followed a handful of times.  I like it, it's similar to what I enjoyed while travelling through Jaipur, but it doesn't really _kick_ the same way that the food in India did, so I always find myself tweaking it.  The base recipe came from <https://thewanderlustkitchen.com/indian-red-lentil-dal/> ... and then I looked up a specifically Rajasthani dhal recipe and found [this one](https://www.archanaskitchen.com/rajasthani-dal-recipe) which is super similar.  The place I've settled is in the middle of the two.
 
-The first recipe came from <https://thewanderlustkitchen.com/indian-red-lentil-dal/> ... and then I looked up a specifically Rajasthani dhal reciepe and found [this one](https://www.archanaskitchen.com/rajasthani-dal-recipe) which is super similar.  The place I've settled is in the middle of the two.
-
-Ingredients
+Ingredients and Method, jumbled into one
 ===========
 
 ### Step One (the pot)
@@ -23,7 +21,7 @@ Ingredients
 * 1/4 cup Green Lentils - rinsed
 * 3 cups water (not boiling, just room temp)
 
-Rinse the lentils, and then put them in a medium pot over medium heat with the water.  Let them simmer while you carry on.
+After rinsing, put the lentils and water in a medium pot over medium heat.  Let them simmer while you prep the rest.
 
 ### Step Two (the fry pan)
 
@@ -38,17 +36,17 @@ Put these into a medium fry pan; don't turn it on yet.
 
 * 6 cloves of garlic, chopped
 * 1.5 Tbsp of ginger, I just used the crushed stuff
-* 1 large onion, diced.  Use different types of onion if you're feeling ✧･ﾟ: *✧･ﾟ:* faaancy *:･ﾟ✧*:･ﾟ✧
+* 1 large onion, diced.  Use different types of onion if you're feeling ✧･ﾟ: *✧･ﾟ:* _faaancy_ *:･ﾟ✧*:･ﾟ✧
 * 2 green chilies.  Dump the seeds and chop them up.
-* If you don't have chilies, drop in 1.5 Tbsp of Salsa Picante instead
+* If you don't have chilies, drop in 2 Tbsp of Salsa Picante instead, for that capsicum-type flavour.
 
-Take the above, and put them in a small bowl.
+Prep the above, and put them all into a small bowl.
 
 ### Step Four (get your heat on)
 
 At this point, turn the frypan on to medium heat.  Let the cumin and cinnamon sizzle in the oil for about a minute, until the scent starts to pop.
 
-Just before it starts to smoke, throw in the contents of your small bowl from Step Three and give it a stir-around.
+Just before it starts to smoke, throw in the contents of your small bowl from Step Three, give it a stir, and crank the heat up to eleven.
 
 ### Step Five (getting serious now)
 
@@ -62,7 +60,7 @@ Just before it starts to smoke, throw in the contents of your small bowl from St
 
 Give your frypan a stir every couple of minutes.  By the time you've finished chopping the tomato and getting the rest of this together, the onions should be transparent and the whole thing should be smelling amazing.
 
-Add all these ingredients to the mix and give it another stir.  Stir up the lentils as well, they should have been simmering for a few minutes by now!
+Add all these ingredients to the frypan and give it another stir.  Stir up the lentils as well, they should have been simmering for a few minutes by now!
 
 ### Step Six (tune those flavours)
 
@@ -81,3 +79,5 @@ Once the lentils have thickened up, mix in all the above, and then stir in the n
   <img src="{static}/images/Food/dhal-home.jpg" width="400" alt="My dhal, in the pot at home.  Much more yellow cast than the makhani style above."/>
   <figcaption><em>The end result.</em></figcaption>
 </figure>
+
+_Enjoy!_
