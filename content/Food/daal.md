@@ -1,16 +1,16 @@
-Title: Dhaaaaaal!
+Title: Daaaaaal!
 Date: 2020-11-24
 Tags: Recipes, Food
 Author: Eric Light
 
-I've loved dhal (or dal or dahl or daal etc) since my trip to India in 2019... Ugh, that seems so interminably long ago now, in the final weeks of the long decade of 2020.  Anyway.
+I've loved daal (or dal or dahl or dhal etc) since my trip to India in 2019... Ugh, that seems so interminably long ago now, in the final weeks of the long decade of 2020.  Anyway.
 
 <figure align="center">
-  <img src="{static}/images/Food/dhal-india.jpg" width="400" alt="A dark, brown-green dhal makhani, with swirls of cream visible."/>
-  <figcaption><em>Dhal makhani in Varanasi.</em></figcaption>
+  <img src="{static}/images/Food/daal-india.jpg" width="400" alt="A dark, brown-green daal makhani, with swirls of cream visible."/>
+  <figcaption><em>Daal makhani in Varanasi.</em></figcaption>
 </figure>
 
-So there's this recipe I've followed a handful of times.  I like it, it's similar to what I enjoyed while travelling through Jaipur, but it doesn't really _kick_ the same way that the food in India did, so I always find myself tweaking it.  The base recipe came from <https://thewanderlustkitchen.com/indian-red-lentil-dal/> ... and then I looked up a specifically Rajasthani dhal recipe and found [this one](https://www.archanaskitchen.com/rajasthani-dal-recipe) which is super similar.  The place I've settled is in the middle of the two.
+So there's this recipe I've followed a handful of times.  I like it, it's similar to what I enjoyed while travelling through Jaipur, but it doesn't really _kick_ the same way that the food in India did, so I always find myself tweaking it.  The base recipe came from <https://thewanderlustkitchen.com/indian-red-lentil-dal/> ... and then I looked up a specifically Rajasthani daal recipe and found [this one](https://www.archanaskitchen.com/rajasthani-dal-recipe) which is super similar.  The place I've settled is in the middle of the two.
 
 Ingredients and Method, jumbled into one
 ===========
@@ -73,10 +73,10 @@ This last part really comes down to personal tastes, but here's my go:
 * The juice of one lemon
 * 1 cup of coconut cream, regular cream, or yoghurt
 
-Once the lentils have thickened up, mix in all the above, and then stir in the now-cooked contents of your frypan.  That's it, your dhal is assembled!  Taste and tweak as desired, and then serve on rice.
+Once the lentils have thickened up, mix in all the above, and then stir in the now-cooked contents of your frypan.  That's it, your daal is assembled!  Taste and tweak as desired, and then serve on rice.
 
 <figure align="center">
-  <img src="{static}/images/Food/dhal-home.jpg" width="400" alt="My dhal, in the pot at home.  Much more yellow cast than the makhani style above."/>
+  <img src="{static}/images/Food/daal-home.jpg" width="400" alt="My daal, in the pot at home.  Much more yellow cast than the makhani style above."/>
   <figcaption><em>The end result.</em></figcaption>
 </figure>
 
