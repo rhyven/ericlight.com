@@ -5,6 +5,8 @@ Date: 2019-12-17
 
 So I faced a little challenge with a [Zentyal](https://www.zentyal.com) server the other day.  I was upgrading from ye olde 6.0 to 6.1, when everything just stopped.  I let it sit in the corner for about an hour or so, but it never picked up the thread.  All the services were still live, so I logged in to have a look.
 
+(Note, my DNS server is named RIMU; yours may be something else!)
+
 Running `ps aux`, I discovered this line:
 
     :::bash
