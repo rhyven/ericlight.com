@@ -83,7 +83,7 @@ uucp     upsd       99934 6  tcp4   127.0.0.1:161         *:*
 
 _Above: upsd is definitely not listening on the expected port_
 
-* **NUT Config files**:  These live under `/usr/local/etc/nut/`.  The folder is deleted and recreated every time you edit something in the TrueNAS gui, so if you're in that folder and change something in the GUI, you'll need to do the whole `cd /usr/local/etc/nut` again. No you can't do `cd ../nut`, because the whole inode is gone, so the OS doesn't know where you are anymore.
+* **NUT Config files**:  These live under `/usr/local/etc/nut/`.  The folder is deleted and recreated every time you edit something in the TrueNAS GUI, so if you're in that folder and change something in the GUI, you'll need to do the whole `cd /usr/local/etc/nut` again. No you can't do `cd ../nut`, because the whole inode is gone, so the OS doesn't know where you are anymore.
 
 * **Testing your UPS**:  Once `upsd` is listening on 3493, you should be able to run `upsc ups`, and it will query your UPS for data.  Note that "ups" is your UPS identifier from the "General Options" section, also found as the first line of `/usr/local/etc/nut/ups.conf`:
 
