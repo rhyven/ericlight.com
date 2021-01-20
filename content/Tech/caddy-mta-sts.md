@@ -2,13 +2,15 @@ Title: Using Caddy to enable MTA-STS
 Author: Eric Light
 Tags: Tech, Security, Linux
 Date: 2021-01-19
-
+Updated: 2021-01-20
 
 About 7 months ago, I left Nginx and [moved to Caddy]({filename}/Tech/caddy.md). I've found it super easy, and have now experienced using it as a reverse proxy, a static site server (this one!), as well as a hosting a [handy place](https://shrug.ericlight.com) for me to copy my favourite [Kaomoji](http://kaomoji.ru).
 
+_**Update 2021-01-20**_:  I had a bug!  By default, Caddy serves this without a Content-Type header.  However, the [RFC](https://tools.ietf.org/html/rfc8461#section-3.2) specifies that the response should be explicitly `Content-Type "text/plain"`.  Thanks to [klausenbusk](https://github.com/klausenbusk/) for letting me know!
+
 _Note:  the Caddyfile fragment to generate <https://shrug.ericlight.com> looks like this:_
 
-```cfg
+```text
 shrug.ericlight.com { respond "<meta charset='UTF-8'>¯\_(ツ)_/¯" }
 ```
 
@@ -16,13 +18,17 @@ Anyway, once I'd used Caddy's `respond` directive, it was a simple step to take 
 
 Simply add this new Server block to your Caddyfile:
 
-```cfg
+```text
 mta-sts.ericlight.com {
+
 respond "version: STSv1
 mode: testing
 mx: in1-smtp.messagingengine.com
 mx: in2-smtp.messagingengine.com
 max_age: 86401"
+
+header Content-Type "text/plain; charset=utf-8"
+
 }
 ```
 
