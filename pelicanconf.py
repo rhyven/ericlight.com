@@ -60,6 +60,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
+         ('InfoSecNZ', 'https://github.com/binarymist/InfoSecNZ/'),
          ('WireGuard', 'https://www.wireguard.com/'),
          ('OWASP NZ', 'https://owasp.org/www-chapter-new-zealand/'),
          ('NZ Python Users Group', 'https://python.nz'),
