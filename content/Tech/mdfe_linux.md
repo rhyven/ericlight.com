@@ -21,6 +21,11 @@ You may find that mdatp is frantically scanning files that freqently Do Things. 
 
 So as a result, I've spent quite a few hours learning how to wrangle auditd around exclusions.  Here's what I've learned:
 
+# You need to lie to install MDFE on Sid
+
+Edit `/etc/os-release` and change `VERSION_ID="11"` to `VERSION_ID="10"`. After that, you can install MDFE following the regular instructions. Don't forget to change it back later! 
+
+
 # Troubleshooting performance issues:
 
 _See also: <https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/linux-support-perf?view=o365-worldwide>_
