@@ -2,6 +2,13 @@ Title: Microsoft Defender for Endpoint (mdatp) on Debian Sid
 Author: Eric Light
 Tags: Tech, Linux
 Date: 2021-07-07
+Modified: 2021-08-01
+
+** 2021-08-01 Update: ** 
+
+This is a better string to find out what's hitting your audit log: `cat /var/log/audit/audit.log* | cut -d ' ' -f26 | sort | uniq -c | sort -n | tail -n 6 | head -n5`
+
+---
 
 Linux doesn't have many great antivirus options available. 
 
