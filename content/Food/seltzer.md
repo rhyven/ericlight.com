@@ -32,7 +32,8 @@ Recipe:
 
 Notes:
 Brewing now, we'll see how it goes...
-
+Initial tasting is very much drier than the others - not sure if this was the acids in the pineapple cutting the sugar, or if the sugar syrup in the cans was way thinner? Either way, this may end up a low percentage.
+Original brix reading looked to be about 7%, suggesting an expected ABV of only 3.6%
 
 ### Brew #3, 2021-12-04 - 2021-12-10: Lychee and Jackfruit Seltzer
 
