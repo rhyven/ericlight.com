@@ -2,27 +2,49 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
+Modified: 2021-12-25
 
-I got into brewing seltzer during the spring of 2021. Here are my notes.
+
+I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
 # Highlights:
 
 * Kveik Voss is fast-fermenting and very transparent flavour. Excellent for seltzer
+* It does take a couple days post-fining for the yeast scent to diminish
 * Recycling yeast is tricky with seltzer due to all the fruit flesh sediment. Still works, though
-* With Dextrose as the main sugar, yeast nutrient is essential - about 15 grams
-* Lychee have quite a prominent character, good to pair with something that can compete
-* Mandarins impart very little flavour
-* Jackfruit is almost undetectable, even with two cans; try blending next time
+* With Dextrose as the main sugar, yeast nutrient is essential - about 15 grams seems to do the trick
 * One kg of dextrose in 19 litres will raise the ABV by approximately 2.65%
-* Don't boil the fruit or you'll get pectin haze
+* Don't boil the fruit or you'll get pectin haze; raise it to about 75°C to sterilise it, though
+
+# Fruit notes:
+
+* Lychee have quite a prominent character, good to pair with something that can compete
+* Mandarins seem to impart _very_ little flavour
+* Jackfruit is almost undetectable, even with two cans; will try blending next time
+* Pineapple seems to digest(?) other fruits. The other fruit becomes quickly less-noticable while the pineapple becomes more prominent
+* Raspberries create a visually beautiful brew, as do plums
 
 ---
 
 # Recipes and notes
 
-### Brew #4, 2021-12-12 - (soon): Black Doris Plum and Pineapple Seltzer
+
+### Brew #5, 2021-12-21 - 2021-12-25: Pineapple and Double Raspberry Seltzer
 
 Recipe:
+
+* 2kg Dextrose
+* Kveik Voss yeast
+* 16g yeast nutrient
+* 850g tinned Raspberries
+* 420g tinned crushed pineapple
+
+
+
+
+### Brew #4, 2021-12-12 - 2021-12-17: Black Doris Plum and Pineapple Seltzer
+
+**Recipe:**
 
 * 2kg Dextrose
 * Kveik Voss yeast
@@ -30,14 +52,19 @@ Recipe:
 * 850g tinned Black Doris plums
 * 850g tinned pineapple (half crushed; half chunks)
 
-Notes:
-Brewing now, we'll see how it goes...
-Initial tasting is very much drier than the others - not sure if this was the acids in the pineapple cutting the sugar, or if the sugar syrup in the cans was way thinner? Either way, this may end up a low percentage.
-Original brix reading looked to be about 7%, suggesting an expected ABV of only 3.6%
+**Notes:**
+
+* Brewing now, we'll see how it goes...
+* Initial tasting is very much drier than the others - not sure if this was the acids in the pineapple cutting the sugar, or if the sugar syrup in the cans was way thinner? Either way, this may end up a low percentage.
+* Original brix reading looked to be about 7%, suggesting an expected ABV of only 3.6%
+* (later): turns out I have no idea how refractometers work. Never mind.
+* This recipe came out _amazing_, absolutely delicious. Started out with a fairly subtle plum flavour, with the pineapple just becoming perceptible at the end.
+* However, during the week the plum flavour diminished and the pineapple flourished. This continued to the point where it was actually really unbalanced; I suspect it was caused by enzymes in the pineapple... to combat this, next time I'll use only one tin.
+
 
 ### Brew #3, 2021-12-04 - 2021-12-10: Lychee and Jackfruit Seltzer
 
-Recipe:
+**Recipe:**
 
 * 1.2kg Dextrose, plus other assorted sugars to 2kg (approx 5.3%)
 * Kveik Voss yeast
@@ -45,7 +72,7 @@ Recipe:
 * 850g tinned jackfruit
 * 560g tinned lychee
 
-Notes:
+**Notes:**
 
 * Brewing out much quicker now with the increased nutrient
 * Lychee is very prominent in finished product. Not overwhelming but definitely star of the show
@@ -54,7 +81,7 @@ Notes:
 
 ### Brew #3, 2021-11-26 - 2021-12-03: Double Raspberry and Mandarin Seltzer
 
-Recipe:
+**Recipe:**
 
 * 2kg Dextrose (for approx 5.3%)
 * Kveik Voss yeast
@@ -62,7 +89,7 @@ Recipe:
 * 820g tinned raspberries
 * 310g tinned mandarins
 
-Notes:
+**Notes:**
 
 * Doubled the raspberry; reduced the dextrose; tripled the yeast nutrient
 * Raspberry far more prominent and yum. Zero impact from mandarin
@@ -72,7 +99,7 @@ Notes:
 
 ### Brew #2, 2021-11-17 to 2021-11-24: Raspberry and Mandarin Seltzer
 
-Recipe:
+**Recipe:**
 
 * 2.5kg Dextrose (for approx 6%)
 * Kveik Voss yeast
@@ -80,15 +107,15 @@ Recipe:
 * 410g tinned raspberries
 * 310g tinned mandarins
 
-Method:
+**Method:**
 
 * Filled keg to 12l line with tap water
-* 2.5kg Dextrose + 6g nutrient into 3 litres of water. Heated to 80°
+* 2.5kg Dextrose + 6g nutrient into 3 litres of water. Heated to 80°C
 * Took off heat, added tin of raspberries and tin of mandarins, including syrup; mashed up a bit
-* Brought temp back up to 75°, and poured it into 16 litres of room temp water
-* Pitched Kveik yeast at 29°. Total 20 litres ish, fermenting at 32°
+* Brought temp back up to 75°C, and poured it into 16 litres of room temp water
+* Pitched Kveik yeast at 29°C. Total 20 litres ish, fermenting at 32°C
 
-Notes:
+**Notes:**
 
 * Brew finished on 2021-11-24, exactly a week later
 * Kveik ferments much quicker, and very clean; happy
@@ -101,5 +128,8 @@ Notes:
 
 Brewed as per instructions, but added 12g of [Mangrove Jack's Passionfruit](https://mangrovejacks.com/collections/consumables/products/natural-beer-flavour-boost-passionfruit) Beer flavour boost.
 Fermented a little slow; took a bit over two weeks to finish
-Tasting notes: Came out with the same acrid/chemical flavour that many others complain about
-Brewing process super simple, though. Think I can do this myself without a kit
+
+**Tasting notes:**
+
+* Came out with the same acrid/chemical flavour that many others complain about
+* Brewing process super simple, though. Think I can do this myself without a kit
