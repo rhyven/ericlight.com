@@ -2,8 +2,7 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2021-12-25
-
+Modified: 2021-12-30
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
@@ -11,7 +10,7 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 
 * Kveik Voss is fast-fermenting and very transparent flavour. Excellent for seltzer
 * It does take a couple days post-fining for the yeast scent to diminish
-* Recycling yeast is tricky with seltzer due to all the fruit flesh sediment. Still works, though
+* Recycling yeast is tricky with seltzer due to all the fruit sediment
 * With Dextrose as the main sugar, yeast nutrient is essential - about 15 grams seems to do the trick
 * One kg of dextrose in 19 litres will raise the ABV by approximately 2.65%
 * Don't boil the fruit or you'll get pectin haze; raise it to about 75°C to sterilise it, though
@@ -28,10 +27,25 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 
 # Recipes and notes
 
+### Brew #6, 2021-12-25 - [brewing now]: Plum, Pineapple, and Mandarin Seltzer
+
+**Recipe:**
+
+* 2kg Dextrose
+* Kveik Voss yeast
+* 14g yeast nutrient
+* 850g tinned Black Doris plums
+* 420g tinned crushed pineapple
+* 310g tinned mandarins
+
+**Notes:**
+* Thoroughly crushed the plums and mandarins with the back of a fork this time
+* Had real trouble reinvigorating the yeast from the previous brew; might need to order a spare yeast for backup
+* 10% Brix 
 
 ### Brew #5, 2021-12-21 - 2021-12-25: Pineapple and Double Raspberry Seltzer
 
-Recipe:
+**Recipe:**
 
 * 2kg Dextrose
 * Kveik Voss yeast
@@ -39,7 +53,11 @@ Recipe:
 * 850g tinned Raspberries
 * 420g tinned crushed pineapple
 
+**Notes:**
 
+* Visually beautiful, great nose, and quite refreshingly delightful to drink.
+* The acidity of the raspberry and pineapple combined made this taste much like a kombucha. Weird.
+* Failed to take any gravity readings.
 
 
 ### Brew #4, 2021-12-12 - 2021-12-17: Black Doris Plum and Pineapple Seltzer
@@ -54,7 +72,6 @@ Recipe:
 
 **Notes:**
 
-* Brewing now, we'll see how it goes...
 * Initial tasting is very much drier than the others - not sure if this was the acids in the pineapple cutting the sugar, or if the sugar syrup in the cans was way thinner? Either way, this may end up a low percentage.
 * Original brix reading looked to be about 7%, suggesting an expected ABV of only 3.6%
 * (later): turns out I have no idea how refractometers work. Never mind.
