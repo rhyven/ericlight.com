@@ -2,7 +2,7 @@ Title: Moving to the Caddy web server
 Author: Eric Light
 Tags: Tech, Security, Linux
 Date: 2020-04-05
-Modified: 2020-05-07
+Modified: 2022-01-05
 
 
 For the last couple of years I've been running this site, as well as my friend's site ([Under The Umbrella](https://www.undertheumbrella.co.nz)) on [Nginx](https://www.nginx.org).  Recently my VPS host decided to do away with their cheapest tier, so instead of doubling my annual cost, I hopped onto <https://www.lowendbox.com> and found myself a replacement Cheaps McGee VPS to host this.
@@ -46,7 +46,7 @@ undertheumbrella.co.nz, www.undertheumbrella.co.nz {
 
 And, `/etc/caddy/caddy_security.conf` contains:
 ```ini
-header / {
+header {
     Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
         X-Xss-Protection "1; mode=block"
         X-Content-Type-Options "nosniff"
@@ -58,6 +58,9 @@ header / {
 }
 
 ```
+** Update 2022-01-05:** Previously I'd used `header / {` above; that should have been simply `header {`. Thanks [@JoHoffmann8](https://twitter.com/JoHoffmann8) for pointing this out! It's also worth mentioning that Caddy are deprecating the `common_log` log format, which makes me sad in one way, but I do get it - the Caddy json log file format is far richer, but I liked the easily-ingested syslog format. ¯\\\_(ツ)\_/¯
+
+---
 
 Ok so here's the thing.  Caddy really seems to implement Python's ethos of "Batteries Included".  The above contents are enough on their own to:
 
