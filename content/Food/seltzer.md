@@ -2,32 +2,54 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2021-12-30
+Modified: 2022-01-05
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
 # Highlights:
 
-* Kveik Voss is fast-fermenting and very transparent flavour. Excellent for seltzer
+* Kveik Voss is fast-fermenting and relatively transparent flavour. Excellent for seltzer
 * It does take a couple days post-fining for the yeast scent to diminish
 * Recycling yeast is tricky with seltzer due to all the fruit sediment
-* With Dextrose as the main sugar, yeast nutrient is essential - about 15 grams seems to do the trick
+* With only sugars and fruit flesh, yeast nutrient is essential - about 15 grams seems to do the trick
 * One kg of dextrose in 19 litres will raise the ABV by approximately 2.65%
 * Don't boil the fruit or you'll get pectin haze; raise it to about 75°C to sterilise it, though
+
 
 # Fruit notes:
 
 * Lychee have quite a prominent character, good to pair with something that can compete
-* Mandarins seem to impart _very_ little flavour
+* Mandarins will impart _very_ little flavour unless you mash them pre-ferment
 * Jackfruit is almost undetectable, even with two cans; will try blending next time
 * Pineapple seems to digest(?) other fruits. The other fruit becomes quickly less-noticable while the pineapple becomes more prominent
 * Raspberries create a visually beautiful brew, as do plums
 
+# Other thoughts:
+
+* 2022-01-04 - my brews are still coming out very sweet - I'm yearning for something with a dryer character. Hard seltzer was featured in an exBEERiment on Brulosophy on the [difference between dextrose and sucrose](https://brulosophy.com/2021/03/22/hard-seltzer-sucrose-vs-dextrose-exbeeriments-results/) (it seems table sugar will be fine!), where Phil mentions using the W04 Paramount wine yeast(!), along with 32g of yeast nutrient(!!). Perhaps this will solve my sweet brews? Might also get my water acidity tested to make sure it's at a good pH for the fermentation.
+
 ---
+
 
 # Recipes and notes
 
-### Brew #6, 2021-12-25 - [brewing now]: Plum, Pineapple, and Mandarin Seltzer
+### Brew #7, 2022-01-05 - brewing: Pineapple Passion Seltzer
+
+**Recipe:**
+
+* 2kg Dextrose
+* Kveik Voss plus Mangrove Jacks' Seltzer yeast
+* 20g yeast nutrient
+* 420g tinned crushed pineapple
+* 510g tinned passionfruit pulp
+
+**Notes:**
+
+* Increased yeast nutrient to 20g this time, will see if it makes a difference
+* _Probably_ made a mistake with my yeast. I'd started up some Mangrove Jacks' seltzer yeast to try... but then remembered how slow it is, so I pitched some fresh Kviek on top of it. Eek... I expect the Seltzer yeast to create some off flavours at 36°C
+* Also made a mistake with the yeast nutrient - I completely forgot it until the fermenter was already in the fridge! Boiled some up and added it in, hopefully it doesn't really need much boiling.
+
+### Brew #6, 2021-12-28 - 2022-01-02: Plum, Pineapple, and Mandarin Seltzer
 
 **Recipe:**
 
@@ -39,9 +61,10 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 * 310g tinned mandarins
 
 **Notes:**
+
 * Thoroughly crushed the plums and mandarins with the back of a fork this time
 * Had real trouble reinvigorating the yeast from the previous brew; might need to order a spare yeast for backup
-* 10% Brix 
+* 10% Brix at start; finished just under 8% Brix... if this refractometer is accurate, these are very low ABV
 
 ### Brew #5, 2021-12-21 - 2021-12-25: Pineapple and Double Raspberry Seltzer
 
