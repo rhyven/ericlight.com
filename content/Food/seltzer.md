@@ -49,7 +49,7 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 **Recipe:**
 
-* 2kg Dextrose
+* 1.7kg Dextrose, 300g white sugar
 * Kveik Voss plus Mangrove Jacks' Seltzer yeast
 * 25g yeast nutrient
 * 310g tinned mandarins
