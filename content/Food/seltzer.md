@@ -2,7 +2,7 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2022-01-05
+Modified: 2022-01-16
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
@@ -15,14 +15,26 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 * One kg of dextrose in 19 litres will raise the ABV by approximately 2.65%
 * Don't boil the fruit or you'll get pectin haze; raise it to about 75°C to sterilise it, though
 
-
 # Fruit notes:
 
+* Mashing the fruit a little bit is a significant factor in releasing the fruit flavours
 * Lychee have quite a prominent character, good to pair with something that can compete
 * Mandarins will impart _very_ little flavour unless you mash them pre-ferment
 * Jackfruit is almost undetectable, even with two cans; will try blending next time
 * Pineapple seems to digest(?) other fruits. The other fruit becomes quickly less-noticable while the pineapple becomes more prominent
 * Raspberries create a visually beautiful brew, as do plums
+* Passionfruit pulp is pretty disappointing; in brew #7 I used THREE cans, and it was nearly undetectable
+
+# Yeast Awakener
+
+To reawaken the yeast from the fridge, I make a mix of:
+
+* A tablespoon of sugar (any variety, often dextrose)
+* 10 grams chopped raisins
+* 6 grams Marmite
+* Pinch of yeast nutrient
+
+Once those are dissolved together, I pour in collected yeast from the previous batch.
 
 # Other thoughts:
 
@@ -33,7 +45,22 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 
 # Recipes and notes
 
-### Brew #7, 2022-01-05 - brewing: Pineapple Passion Seltzer
+### Brew #8, 2022-01-16 - brewing: 
+
+**Recipe:**
+
+* 2kg Dextrose
+* Kveik Voss plus Mangrove Jacks' Seltzer yeast
+* 25g yeast nutrient
+* 310g tinned mandarins
+* 850g tinned blueberries
+
+**Notes:**
+
+* Previous run went very well (much drier result), so bumped nutrient to 25g! 
+* Recycled the Kveik Voss + MJ's Seltzer yeast from last batch; seemed pretty okay
+
+### Brew #7, 2022-01-05 - 2022-01-10: Pineapple Passion Seltzer
 
 **Recipe:**
 
@@ -45,9 +72,10 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 
 **Notes:**
 
-* Increased yeast nutrient to 20g this time, will see if it makes a difference
-* _Probably_ made a mistake with my yeast. I'd started up some Mangrove Jacks' seltzer yeast to try... but then remembered how slow it is, so I pitched some fresh Kviek on top of it. Eek... I expect the Seltzer yeast to create some off flavours at 36°C
+* Increased yeast nutrient to 20g this time, will see if it makes a difference. (Update - huge difference!)
+* _Probably_ made a mistake with my yeast. I'd started up some Mangrove Jacks' seltzer yeast to try... but then remembered how slow it is, so I pitched some fresh Kviek on top of it. Eek... I expect the Seltzer yeast to create some off flavours at 36°
 * Also made a mistake with the yeast nutrient - I completely forgot it until the fermenter was already in the fridge! Boiled some up and added it in, hopefully it doesn't really need much boiling.
+* Result - this one wasn't a winner for me. It was dry like I wanted, but the passionfruit was a big disappointment
 
 ### Brew #6, 2021-12-28 - 2022-01-02: Plum, Pineapple, and Mandarin Seltzer
 
@@ -65,6 +93,7 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 * Thoroughly crushed the plums and mandarins with the back of a fork this time
 * Had real trouble reinvigorating the yeast from the previous brew; might need to order a spare yeast for backup
 * 10% Brix at start; finished just under 8% Brix... if this refractometer is accurate, these are very low ABV
+* Result - this was absolutely one of my favourites. Great outcome!
 
 ### Brew #5, 2021-12-21 - 2021-12-25: Pineapple and Double Raspberry Seltzer
 
