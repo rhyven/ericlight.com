@@ -2,7 +2,7 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2022-01-16
+Modified: 2022-01-26
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
@@ -30,7 +30,7 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 To reawaken the yeast from the fridge, I make a mix of:
 
 * A tablespoon of sugar (any variety, often dextrose)
-* 10 grams chopped raisins
+* 10 grams chopped raisins OR 2tsp lemon juice
 * 6 grams Marmite
 * Pinch of yeast nutrient
 
@@ -39,13 +39,34 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 # Other thoughts:
 
 * 2022-01-04 - my brews are still coming out very sweet - I'm yearning for something with a dryer character. Hard seltzer was featured in an exBEERiment on Brulosophy on the [difference between dextrose and sucrose](https://brulosophy.com/2021/03/22/hard-seltzer-sucrose-vs-dextrose-exbeeriments-results/) (it seems table sugar will be fine!), where Phil mentions using the W04 Paramount wine yeast(!), along with 32g of yeast nutrient(!!). Perhaps this will solve my sweet brews? Might also get my water acidity tested to make sure it's at a good pH for the fermentation.
+* 2022-01-21 - the increased yest nutrient is working out very well; much cleaner and dryer - 25g seems good. Ordered some Fermaid AT today as well to see if a slower release of yeast-available nitrogen (YAN) will support the yeast better
 
 ---
 
 
 # Recipes and notes
 
-### Brew #8, 2022-01-16 - brewing: 
+### Brew #9, 2022-01-26 - brewing: Apple, Mango, and Guava Seltzer
+
+**Recipe:**
+
+* 2kg white table sugar (see notes)
+* 4g Citric acid
+* 23g yeast nutrient
+* My weird hybrid yeast now (see notes)
+* 1kg diced apple
+* 410g tinned guava
+* 850g mango pulp
+
+**Notes:**
+
+* I ran out of yeast nutrient so only 23g this time
+* Overshot water, but had lots more fruit than normal so this is a 24l batch
+* Experimenting - decided to attempt invert sugar instead of dextrose! 2kg table sugar + 4g citric acid; boil for 20mins.
+* The Kveik Voss + Mangrove Jack's Seltzer yeast is doing the job very nicely
+* Initial flavour suggests this might be a goodie.
+
+### Brew #8, 2022-01-16 - 2022-01-21: Blueberry and Mandarin Seltzer
 
 **Recipe:**
 
@@ -59,6 +80,7 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 * Previous run went very well (much drier result), so bumped nutrient to 25g! 
 * Recycled the Kveik Voss + MJ's Seltzer yeast from last batch; seemed pretty okay
+* Result - an absolute banger! Really delicious; next time I'll replace the mandarin with something more acidic though
 
 ### Brew #7, 2022-01-05 - 2022-01-10: Pineapple Passion Seltzer
 
