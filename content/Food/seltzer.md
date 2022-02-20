@@ -2,7 +2,7 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2022-01-26
+Modified: 2022-02-20
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
@@ -14,16 +14,18 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 * With only sugars and fruit flesh, yeast nutrient is essential - about 15 grams seems to do the trick
 * One kg of dextrose in 19 litres will raise the ABV by approximately 2.65%
 * Don't boil the fruit or you'll get pectin haze; raise it to about 75°C to sterilise it, though
+* Table sugar is a perfectly passable sugar; make invert sugar by boiling it with a little citric acid, 20-60 minutes
 
 # Fruit notes:
 
 * Mashing the fruit a little bit is a significant factor in releasing the fruit flavours
 * Lychee have quite a prominent character, good to pair with something that can compete
-* Mandarins will impart _very_ little flavour unless you mash them pre-ferment
+* Mandarins will impart _very_ little flavour unless you mash them really good pre-ferment
 * Jackfruit is almost undetectable, even with two cans; will try blending next time
 * Pineapple seems to digest(?) other fruits. The other fruit becomes quickly less-noticable while the pineapple becomes more prominent
 * Raspberries create a visually beautiful brew, as do plums
 * Passionfruit pulp is pretty disappointing; in brew #7 I used THREE cans, and it was nearly undetectable
+* Mango is pretty awful, really - lots of fruit mush, lots of haze, some weird aged-fruit flavour... avoid imho
 
 # Yeast Awakener
 
@@ -46,7 +48,24 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 # Recipes and notes
 
-### Brew #9, 2022-01-26 - brewing: Apple, Mango, and Guava Seltzer
+### Brew #10, 2022-02-20 - brewing: Blueberry and Mandarin Seltzer
+
+**Recipe:**
+
+* 2kg white table sugar (see notes)
+* 5g Citric acid
+* 10g yeast nutrient (Fermaid-AT)
+* A fresh Kveik Voss
+* 310g tinned mandarins
+* 850g tinned blueberries
+
+**Notes:**
+
+* I really liked this combination so revisiting the double-blueberry and mandarin with a couple tweaks
+* My Fermaid-AT has arrived! It's used at a rate up to 1g/l in low-YAN environments, so used 10g and will add another 10g in 2 days
+* The invert sugar experiment seemed to be a success, so 2kg table sugar + 5g citric acid; boil for 20mins
+
+### Brew #9, 2022-01-26 - 2022-02-01: Apple, Mango, and Guava Seltzer
 
 **Recipe:**
 
@@ -62,9 +81,10 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 * I ran out of yeast nutrient so only 23g this time
 * Overshot water, but had lots more fruit than normal so this is a 24l batch
-* Experimenting - decided to attempt invert sugar instead of dextrose! 2kg table sugar + 4g citric acid; boil for 20mins.
+* Decided to attempt invert sugar instead of dextrose! 2kg table sugar + 4g citric acid; boil for 20mins
 * The Kveik Voss + Mangrove Jack's Seltzer yeast is doing the job very nicely
 * Initial flavour suggests this might be a goodie.
+* Final flavour - meh. 2/5, I wouldn't brew this again. The citric acid seemed to be a good call though.
 
 ### Brew #8, 2022-01-16 - 2022-01-21: Blueberry and Mandarin Seltzer
 
