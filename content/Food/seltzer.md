@@ -2,7 +2,7 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2022-02-20
+Modified: 2022-03-01
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
@@ -15,6 +15,7 @@ I got into brewing seltzer during the spring of 2021, and these are my notes. Th
 * One kg of dextrose in 19 litres will raise the ABV by approximately 2.65%
 * Don't boil the fruit or you'll get pectin haze; raise it to about 75°C to sterilise it, though
 * Table sugar is a perfectly passable sugar; make invert sugar by boiling it with a little citric acid, 20-60 minutes
+* Citric acid is _amazing_
 
 # Fruit notes:
 
@@ -48,22 +49,26 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 # Recipes and notes
 
-### Brew #10, 2022-02-20 - brewing: Blueberry and Mandarin Seltzer
+### Brew #10, 2022-02-20 - 2022-02-28: Blueberry and Mandarin Seltzer
 
 **Recipe:**
 
 * 2kg white table sugar (see notes)
 * 5g Citric acid
-* 10g yeast nutrient (Fermaid-AT)
+* 10g+10g yeast nutrient (Fermaid-AT)
 * A fresh Kveik Voss
 * 310g tinned mandarins
 * 850g tinned blueberries
 
 **Notes:**
 
+* Easily one of my favourites - possibly *THE* favourite - so far. 4/5, only minor improvements
+* Update, citric acid is _amazing_, absolutely brings the zing that I was craving. Still getting sweet brews but much more balanced now
+* Two batches of 10g FermaidAT was pretty good, the Kveik chews that stuff up super-quick, literally over 36 hours. Next batch will try a 15/10 split
 * I really liked this combination so revisiting the double-blueberry and mandarin with a couple tweaks
 * My Fermaid-AT has arrived! It's used at a rate up to 1g/l in low-YAN environments, so used 10g and will add another 10g in 2 days
 * The invert sugar experiment seemed to be a success, so 2kg table sugar + 5g citric acid; boil for 20mins
+* 
 
 ### Brew #9, 2022-01-26 - 2022-02-01: Apple, Mango, and Guava Seltzer
 
