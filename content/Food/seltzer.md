@@ -2,7 +2,7 @@ Title: Seltzer brewing
 Date: 2021-12-12
 Tags: Food, Brewing
 Author: Eric Light
-Modified: 2022-03-01
+Modified: 2022-03-12
 
 I got into brewing seltzer during the spring of 2021, and these are my notes. They're in descending order, so the most-recent are at the top. The notes got progressively less-detailed as time went by, so those looking to actually learn things (e.g. "How much yeast nutrient should I use in a seltzer that's 100% dextrose") should read the highlights and then read from bottom-up.  :)
 
@@ -49,6 +49,24 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 # Recipes and notes
 
+### Brew #11, 2022-03-12 - brewing: Blueberry and Mandarin Seltzer - large edition
+
+**Recipe:**
+
+* 3kg invert table sugar
+* 10g Citric acid
+* 15g+15g Fermaid-AT
+* Kveik Voss
+* 310g tinned mandarins
+* 1275g tinned blueberries
+
+**Notes:**
+
+* Decided it was high time to brew a larger batch - this is a 25 litre brew
+* The citric acid has been amazing - boosted the quantity in this one to compensate for the larger proportion of fruit
+* Dosed 15g of Fermaid-AT at inital brew; will dose another 15g at 3 days
+* Looking to try some amylase enzyme to see if I can really dry out the seltzer
+ 
 ### Brew #10, 2022-02-20 - 2022-02-28: Blueberry and Mandarin Seltzer
 
 **Recipe:**
@@ -62,13 +80,14 @@ Once those are dissolved together, I pour in collected yeast from the previous b
 
 **Notes:**
 
-* Easily one of my favourites - possibly *THE* favourite - so far. 4/5, only minor improvements
-* Update, citric acid is _amazing_, absolutely brings the zing that I was craving. Still getting sweet brews but much more balanced now
-* Two batches of 10g FermaidAT was pretty good, the Kveik chews that stuff up super-quick, literally over 36 hours. Next batch will try a 15/10 split
-* I really liked this combination so revisiting the double-blueberry and mandarin with a couple tweaks
 * My Fermaid-AT has arrived! It's used at a rate up to 1g/l in low-YAN environments, so used 10g and will add another 10g in 2 days
+* Two batches of 10g FermaidAT was pretty good, the Kveik chews that stuff up super-quick, literally over 36 hours
+* I really liked this combination so revisiting the double-blueberry and mandarin with a couple tweaks
 * The invert sugar experiment seemed to be a success, so 2kg table sugar + 5g citric acid; boil for 20mins
-* 
+* Easily one of my favourites - possibly **THE** favourite - so far. 4/5, only minor improvements
+* Update, citric acid is _amazing_, absolutely brings the zing that I was craving. Still getting sweet brews but much more balanced now
+* Next brew will try 15g+10g nutrient
+ 
 
 ### Brew #9, 2022-01-26 - 2022-02-01: Apple, Mango, and Guava Seltzer
 
