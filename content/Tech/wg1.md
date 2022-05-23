@@ -10,7 +10,7 @@ Extending on from the IP addresses in Part One, instead of JUST connecting to th
 * **Remote machine:** wg0: 10.20.40.1 (behind public IP 163.172.161.0)
 * **Local machine:** wg0: 10.20.40.2 (with eth0 on 192.168.88.207)
 * **Machines on remote LAN:** 10.20.0.0/16
-* **Remote LAN Watchguard range:**  10.20.40.0/16 -- note this is within the remote 10.20.0.0/16 range
+* **Remote LAN WireGuard range:**  10.20.40.0/16 -- note this is within the remote 10.20.0.0/16 range
 
 From my local machine, with minimal interaction, I want to be able to ping something like 10.20.**10.30**, and get a response.
 
